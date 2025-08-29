@@ -1,0 +1,5 @@
+{
+  "name": "SnapStream Downloader",
+  "description": "A web-based multimedia downloader inspired by SnapTube. Search for videos or paste URLs from various platforms to download them in different formats and qualities.",
+  "requestFramePermissions": []
+}
